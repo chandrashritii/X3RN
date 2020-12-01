@@ -2,11 +2,11 @@
 
 
 using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
+  name: About us
+  description: XtressChain as a project
 using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
+  name: How can we help you?
+  description: Industries we focus on
 customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+  name: Adopt us
+  description: Showcasing our sponsors
