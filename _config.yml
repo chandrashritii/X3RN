@@ -64,7 +64,7 @@ help_two_link:
 help_one_title: Business
 help_one_content: Adopt us for your business today!
 help_one_button: Transport Smarter
-help_one_link: https://twitter.com/theteaguns
+help_one_link: 
 
 # Build settings
 theme: minima
