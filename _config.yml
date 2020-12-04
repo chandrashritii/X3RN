@@ -45,10 +45,11 @@ instagram_username:
 
 # Navivation
 nav_item_one: Github
-nav_item_one_link: 
+nav_item_one_link: https://github.com/xtresschain
 
-nav_item_two: Twitter
-nav_item_two_link: 
+nav_item_two: Linkedin
+nav_item_two_link: https://www.linkedin.com/company/xtresschain
+
 nav_item_three: #
 nav_item_three_link: #
 
