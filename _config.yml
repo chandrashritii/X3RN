@@ -20,7 +20,7 @@
 
 title: XtressChain
 description: XtressChain is a project on IoT for good.
-baseurl: /xtresschain # the subpath of your site, e.g. /support
+baseurl: /home # the subpath of your site, e.g. /support
 url: https://chandrashitii.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
